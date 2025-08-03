@@ -1,0 +1,2 @@
+# Webcam-Guided-Rover-Control-for-Medical-Waste-Transport-using-Reinforcement-Learning.
+Built an autonomous rover for medical waste transport using MATLAB over Wi-Fi. The rover follows set paths and uses image processing to find and collect waste, reducing human contact and infection risk. Key hardware used includes Arduino Nano 33 IoT, motor carrier, DC motors with encoders, servo motor, fork lifting mechanism, wheels, and a webcam.
